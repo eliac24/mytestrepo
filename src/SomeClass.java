@@ -1,6 +1,6 @@
 public class SomeClass {
 
-    private int totals;
+    private int total;
 
     public SomeClass(){
 
